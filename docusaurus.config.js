@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Oficina Rodas e Pneus',
-  tagline: 'Até acreditas em deus',
+  title: 'OFICINA RODAS E PNEUS, LDA.',
+  tagline: 'ATÉ ACREDITAS EM DEUS',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Oficina Rodas e Pneus',
+        title: 'OFICINA RODAS E PNEUS',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
