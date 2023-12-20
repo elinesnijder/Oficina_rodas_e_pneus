@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'OFICINA RODAS E PNEUS, LDA.',
   tagline: 'ATÉ ACREDITAS EM DEUS',
-  favicon: 'img/logo1.png',
+  favicon: 'img/LOGO.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -67,8 +67,8 @@ const config = {
       navbar: {
         title: 'OFICINA RODAS E PNEUS',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo1.png',
+          alt: 'Logo Oficina',
+          src: 'img/LOGO.png',
         },
         items: [
           {
