@@ -65,7 +65,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/Social card.png',
       navbar: {
-        title: 'OFICINA RODAS E PNEUS',
+        title: 'RODAS E PNEUS',
         logo: {
           alt: 'Logo Oficina',
           src: 'img/LOGO.png',
