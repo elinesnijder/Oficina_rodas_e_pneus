@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'RODAS E PNEUS, LDA.',
+  title: 'OFICINA RODAS E PNEUS, LDA.',
   tagline: 'ATÉ ACREDITAS EM DEUS',
   favicon: 'img/LOGO.png',
 
