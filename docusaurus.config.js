@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/LOGO.png',
 
   // Set the production url of your site here
-  url: 'https://elinesnijder.github.io/Oficina_rodas_e_pneus/',
+  url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Oficina_rodas_e_pneus/',
