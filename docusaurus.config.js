@@ -93,15 +93,15 @@ const config = {
             items: [
               {
                 label: 'Oficina',
-                to: '/docs/category/oficina',
+                to: '/oficina/category/oficina',
               },
               {
                 label: 'Financiamento',
-                to: '/docs/tutorial-extras/manage-docs-versions',
+                to: '',
               },
               {
                 label: 'Seguro',
-                to: '/docs/tutorial-extras/translate-your-site',
+                to: '/oficina/tutorial-extras/translate-your-site',
               },
             ],
           },
