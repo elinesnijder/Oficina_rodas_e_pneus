@@ -86,15 +86,18 @@ const config = {
         ],
       },
       footer: {
-        logo: {
-          alt: 'A Nossa Oficina',
-          src: 'img/Social card.png',
-          href: 'https://opensource.fb.com',
-          width: 160,
-          height: 51,
-        },
+        
         style: 'dark',
         links: [
+          {
+            logo: {
+              alt: 'A Nossa Oficina',
+              src: 'img/Social card.png',
+              href: 'https://opensource.fb.com',
+              width: 160,
+              height: 51,
+            },
+          },
           {
             title: 'A Nossa Oficina',
             items: [
