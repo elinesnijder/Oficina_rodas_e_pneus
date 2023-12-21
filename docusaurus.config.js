@@ -106,19 +106,16 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Contactos',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                text: 'Rua Praceta Maria José Pinheiro 2234-360 Faro Portugal',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                text: 'Telemóvel / Telefone: 930 691 421 / 317 672 411',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                text: 'Email: oficinarodaspneuslda@sapo.pt',
               },
             ],
           },
@@ -126,7 +123,7 @@ const config = {
             items: [
               {
                 html: `<a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
-                      <img src="img/Socialcard.png" alt="Social Card" width="500" height="200" />
+                      <img src="img/Socialcard.png" alt="Social Card" width="450" height="200" />
                     </a>`,
               },
             ],
