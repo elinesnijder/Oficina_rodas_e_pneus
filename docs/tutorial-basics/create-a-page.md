@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Mudança de Óleo
+# Mudança de Óle
 
 O óleo é importante para um bom funcionamneto do veículo.
 
@@ -15,7 +15,7 @@ O óleo adequado forma uma barreira protetora no motor, reduzindo o desgaste e p
 Uma troca regular de óleo contribui para a eficiência do combustível, poupando dinheiro a longo prazo.
 
 3. **Redução de Emissões:**
-O óleo limpo tem papel crucial na redução das emissões prejudiciais e no respeito pelo ambiente.
+O óleo limpo tem papel crucial na redução das emissões prejudiciais ao ar e no respeito pelo ambiente.
 
 ## **Compromisso com a Qualidade:**
 
