@@ -94,6 +94,7 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
+                src: 'img/Social card.png',
               },
             ],
           },
@@ -115,7 +116,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Follow us',
             items: [
               {
                 label: 'Blog',
@@ -128,7 +129,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OFICINA RODAS E PNEUS LDA., Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
