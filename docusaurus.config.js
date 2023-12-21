@@ -92,9 +92,23 @@ const config = {
             title: 'A Nossa Oficina',
             items: [
               {
-                src: 'img/Social card.png',
+                label: 'Tutorial',
+                to: '/docs/intro',
               },
             ],
+          },
+          {title: 'Contactos',
+          items: [
+            {
+              label: 'Rua Praceta MAria José Pinheiro 2234-360 Faro Portugal',
+              label1: 'Telemóvel / Telefone: 930 691 421 / 317 672 411',
+              label2: 'Email: oficinarodaspneuslda@sapo.pt',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/facebook/docusaurus',
+            },
+          ],
           },
           {
             title: 'Community',
@@ -110,19 +124,6 @@ const config = {
               {
                 label: 'Twitter',
                 href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'Follow us',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
