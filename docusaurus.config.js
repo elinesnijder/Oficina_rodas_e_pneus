@@ -92,8 +92,7 @@ const config = {
             title: 'O Nossa Oficina',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                image: 'img/Social card.png'
               },
             ],
           },
