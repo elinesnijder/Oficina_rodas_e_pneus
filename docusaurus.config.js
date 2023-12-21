@@ -89,11 +89,9 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'A Nossa Oficina',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
                 src: 'img/Social card.png',
               },
             ],
