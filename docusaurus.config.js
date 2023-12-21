@@ -103,13 +103,11 @@ const config = {
                 label: 'Seguro',
                 to: '/docs/tutorial-extras/translate-your-site',
               },
-              {
-                html: `
-                    <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
-                      <img src= "static/img/Socialcard.png" alt="Deploys by Netlify" width="114" height="51" />
-                    </a>
-                  `,
-              },
+              /*{
+                html: `<a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+                      <img src="/img/Socialcard.png" alt="Deploys by Netlify" width="114" height="51" />
+                    </a>`,
+              },*/
             ],
           },
           {
