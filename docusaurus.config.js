@@ -100,12 +100,7 @@ const config = {
           },
           {
             title: 'A Nossa Oficina',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            image: 'img/Social card.png'
           },
           {title: 'Contactos',
           items: [
