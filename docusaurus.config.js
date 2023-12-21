@@ -86,21 +86,16 @@ const config = {
         ],
       },
       footer: {
-        
         style: 'dark',
         links: [
           {
-            logo: {
-              alt: 'A Nossa Oficina',
-              src: 'img/Social card.png',
-              href: 'https://opensource.fb.com',
-              width: 160,
-              height: 51,
-            },
-          },
-          {
             title: 'A Nossa Oficina',
-            image: 'img/Social card.png'
+            items: [
+              {
+                label: 'Tutorial',
+                to: '/docs/intro',
+              },
+            ],
           },
           {title: 'Contactos',
           items: [
