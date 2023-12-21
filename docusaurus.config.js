@@ -89,12 +89,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'O Nossa Oficina',
+            title: 'Serviços',
             items: [
               {
                 label: 'Oficina',
                 to: '/docs/category/oficina',
               },
+              {
+                label: 'Financiamento',
+                to: '/docs/tutorial-extras/manage-docs-versions',
+              },
+              {
+                label: 'Seguro',
+                to: '/docs/tutorial-extras/translate-your-site',
+              }
             ],
           },
           {
