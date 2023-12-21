@@ -97,7 +97,7 @@ const config = {
               },
               {
                 label: 'Financiamento',
-                to: '',
+                to: '/docs/tutorial-extras/manage-docs-versions',
               },
               {
                 label: 'Seguro',
