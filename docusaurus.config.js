@@ -89,13 +89,26 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'A Nossa Oficina',
             items: [
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
             ],
+          },
+          {title: 'Contactos',
+          items: [
+            {
+              label: 'Rua Praceta MAria José Pinheiro 2234-360 Faro Portugal',
+              label1: 'Telemóvel / Telefone: 930 691 421 / 317 672 411',
+              label2: 'Email: oficinarodaspneuslda@sapo.pt',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/facebook/docusaurus',
+            },
+          ],
           },
           {
             title: 'Community',
@@ -114,21 +127,8 @@ const config = {
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OFICINA RODAS E PNEUS LDA., Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
