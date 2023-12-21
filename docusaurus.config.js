@@ -62,7 +62,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-        navbar: {
+      // Replace with your project's social card
+      image: 'img/Social card.png',
+      navbar: {
         title: 'RODAS E PNEUS',
         logo: {
           alt: 'Logo Oficina',
@@ -90,7 +92,8 @@ const config = {
             title: 'O Nossa Oficina',
             items: [
               {
-                image: 'img/Social card.png'
+                label: 'Social Card',
+                to: 'img/Social card.png',
               },
             ],
           },
