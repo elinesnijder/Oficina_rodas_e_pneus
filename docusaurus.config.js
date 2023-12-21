@@ -102,7 +102,14 @@ const config = {
               {
                 label: 'Seguro',
                 to: '/docs/tutorial-extras/translate-your-site',
-              }
+              },
+              {
+                html: `
+                    <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+                      <img src= Socialcard.png alt="Deploys by Netlify" width="114" height="51" />
+                    </a>
+                  `,
+              },
             ],
           },
           {
@@ -123,15 +130,10 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Contactos',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Rua Praceta Maria José Pinheiro 2234-360 Faro Portugal <br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt',
               },
             ],
           },
