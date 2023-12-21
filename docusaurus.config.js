@@ -127,14 +127,14 @@ const config = {
               },
             ],
           },
-          {
+          /*{
             title: 'Contactos',
             items: [
               {
                 label: 'Rua Praceta Maria José Pinheiro 2234-360 Faro Portugal <br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt',
               },
             ],
-          },
+          },*/
         ],
         copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
