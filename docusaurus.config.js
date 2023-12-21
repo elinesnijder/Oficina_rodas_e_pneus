@@ -86,23 +86,26 @@ const config = {
         ],
       },
       footer: {
+        
         style: 'dark',
         links: [
           {
+            logo: {
+              alt: 'A Nossa Oficina',
+              src: 'img/Social card.png',
+              href: 'https://opensource.fb.com',
+              width: 160,
+              height: 51,
+            },
+          },
+          {
             title: 'A Nossa Oficina',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
+            image: 'img/Social card.png'
           },
           {title: 'Contactos',
           items: [
             {
-              label: 'Rua Praceta MAria José Pinheiro 2234-360 Faro Portugal',
-              label1: 'Telemóvel / Telefone: 930 691 421 / 317 672 411',
-              label2: 'Email: oficinarodaspneuslda@sapo.pt',
+              label: 'Rua Praceta Maria José Pinheiro 2234-360 Faro Portugal<br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt',
             },
             {
               label: 'GitHub',
