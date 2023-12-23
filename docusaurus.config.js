@@ -85,10 +85,10 @@ const config = {
             ],
           },
           {
-            title: 'Informações Oficina',
+            title: 'Morada',
             items: [
               {
-                html: `<p> Rua Praceta Maria José Pinheiro 2234-360 Faro, Portugal<br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt </p>`,
+                html: `<p> Rua Praceta Maria José Pinheiro <br> 2234-360 Faro, Portugal </p>`,
               },
             ],
           },
