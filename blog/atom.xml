@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Oficina_rodas_e_pneus/blog</id>
     <title>OFICINA RODAS E PNEUS, LDA. Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-12-23T20:59:43.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Oficina_rodas_e_pneus/blog"/>
     <subtitle>OFICINA RODAS E PNEUS, LDA. Blog</subtitle>
     <icon>https://github.com/Oficina_rodas_e_pneus/img/LOGO.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Biografia Eline Snijder]]></title>
+        <id>https://github.com/Oficina_rodas_e_pneus/blog/Biografia Eline Snijder</id>
+        <link href="https://github.com/Oficina_rodas_e_pneus/blog/Biografia Eline Snijder"/>
+        <updated>2023-12-23T20:59:43.000Z</updated>
+        <summary type="html"><![CDATA[Eline Snijder, mecânica apaixonada por motores e movida pela curiosidade desde a adolescência, encontrou seu caminho nas oficinas de automóveis. Nascida para consertar, Eline é uma presença essencial na equipe de uma respeitada oficina.]]></summary>
+        <content type="html"><![CDATA[<p>Eline Snijder, mecânica apaixonada por motores e movida pela curiosidade desde a adolescência, encontrou seu caminho nas oficinas de automóveis. Nascida para consertar, Eline é uma presença essencial na equipe de uma respeitada oficina.</p><p>Com mãos habilidosas e olhos treinados para identificar qualquer problema sob o capô, Eline conquistou seu espaço na indústria. Sua jornada começou com a simples curiosidade de entender como as coisas funcionavam, e hoje ela é uma peça fundamental na engrenagem de uma oficina de confiança.</p><p>Sempre pronta para assumir desafios, Eline é conhecida por sua determinação e eficiência. Seja diagnosticando problemas complexos ou realizando reparos rápidos, sua paixão pelo trabalho reflete-se na qualidade do serviço que oferece.</p><p>Além de suas habilidades técnicas, Eline é apreciada por sua honestidade e atenção aos clientes. Sua abordagem simples e direta estabelece uma conexão única, tornando-a não apenas uma mecânica talentosa, mas também uma amiga confiável para quem busca cuidados para seus veículos.</p><p>Eline Snijder personifica a essência da mecânica automotiva, onde a habilidade e a dedicação são as chaves para manter os motores rodando suavemente.</p>]]></content>
+        <author>
+            <name>Eline Snijder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bem-vindos à Oficina Rodas e Pneus]]></title>
         <id>https://github.com/Oficina_rodas_e_pneus/blog/Bem-vindos à Oficina Rodas e Pneus</id>
