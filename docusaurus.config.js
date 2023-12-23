@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Serviços',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -89,41 +89,36 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Serviços',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Oficina',
+                to: '/docs/category/oficina',
+              },
+              {
+                label: 'Financiamento',
+                to: '/docs/tutorial-extras/manage-docs-versions',
+              },
+              {
+                label: 'Seguro',
+                to: '/docs/tutorial-extras/translate-your-site',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Contactos',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                html: `<p> Rua Praceta Maria José Pinheiro 2234-360 Faro, Portugal<br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt </p>`,
               },
             ],
           },
           {
-            title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                html: `<a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+                      <img src="img/Socialcard.png" alt="Social" width="500" height="200" />
+                    </a>`,
               },
             ],
           },

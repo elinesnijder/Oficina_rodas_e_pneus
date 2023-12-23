@@ -2,42 +2,23 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Mudança de Óleo
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+O óleo é importante para um bom funcionamneto do veículo.
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+## **Por Que a Troca de Óleo é Vital:**
 
-## Create your first React Page
+1. **Proteção do Motor:**
+O óleo adequado forma uma barreira protetora no motor, reduzindo o desgaste e prolongando a vida útil do mesmo.
 
-Create a file at `src/pages/my-react-page.js`:
+2. **Eficiência de Combustível:**
+Uma troca regular de óleo contribui para a eficiência do combustível, poupando dinheiro a longo prazo.
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+3. **Redução de Emissões:**
+O óleo limpo tem papel crucial na redução das emissões prejudiciais ao ar e no respeito pelo ambiente.
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+## **Compromisso com a Qualidade:**
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+Comprometemo-nos a fornecer não apenas serviços, mas uma experiência educativa que te capacitará a tomar decisões informadas sobre a manutenção do teu veículo. Navega pelo nosso site e descobre como a troca de óleo pode ser mais do que uma tarefa de rotina - é um investimento no futuro do teu automóvel.
 
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+Confia em nós para cuidar do teu veículo como se fosse nosso. Juntos, garantimos uma jornada suave, quilómetro após quilómetro.
