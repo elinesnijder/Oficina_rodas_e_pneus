@@ -19,4 +19,4 @@ Oferecemos serviços de calibragem precisos para manter a pressão ideal dos seu
 3. **Alinhamento de Direção:**
 O alinhamento correto melhora a dirigibilidade, evita o desgaste irregular dos pneus e proporciona uma condução mais segura.
 
-Na nossa oficina, a manutenção de pneus vai além de um simples serviço. é um compromisso com a sua segurança e satisfação. Confie em nós para cuidar dos seus pneus, proporcionando uma condução suave e tranquila. Entre em contacto connosco hoje para agendar o seu serviço e experimentar a diferença que a nossa dedicação faz no desempenho do seu veículo.
+A manutenção de pneus vai além de um simples serviço. é um compromisso com a sua segurança e satisfação. Confie em nós para cuidar dos seus pneus, proporcionando uma condução suave e tranquila. Entre em contacto connosco hoje para agendar o seu serviço e experimentar a diferença que a nossa dedicação faz no desempenho do seu veículo.
