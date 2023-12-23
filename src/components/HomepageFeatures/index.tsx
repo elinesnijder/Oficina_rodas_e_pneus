@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Rent-a-Car',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/Anonymous_aiga_car_rental.svg').default,
     description: (
       <>
         <p>Aluguer Automóvel</p>
