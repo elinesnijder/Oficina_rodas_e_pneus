@@ -1,7 +1,7 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
+slug: Bem-vindos
+title: Bem-vindos à Oficina Rodas e Pneus
+authors: [Carolina, Eline, Ricardo, Wanna]
 tags: [facebook, hello, docusaurus]
 ---
 
@@ -18,8 +18,6 @@ The blog post date can be extracted from filenames, such as:
 
 A blog post folder can be convenient to co-locate blog post images:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![Oficina](./docusaurus-plushie-banner.jpeg)
 
 The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
