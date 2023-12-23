@@ -61,11 +61,6 @@ const config = {
             label: 'Serviços',
           },
           {to: '/blog', label: 'A Nossa Equipa', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
@@ -99,7 +94,7 @@ const config = {
           {
             items: [
               {
-                html: `<a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+                html: `<a target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
                       <img src="img/Socialcard.png" alt="Social" width="450" height="200" />
                     </a>`,
               },
