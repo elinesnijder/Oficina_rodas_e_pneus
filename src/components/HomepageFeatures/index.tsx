@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Seguro',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/car-repair-car-svgrepo-com.svg').default,
     description: (
       <>
       <p>Automóvel</p>
