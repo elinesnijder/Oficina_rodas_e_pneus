@@ -10,24 +10,16 @@ const config = {
   tagline: 'ATÉ ACREDITAS EM DEUS',
   favicon: 'img/LOGO.png',
 
-  // Set the production url of your site here
   url: 'https://github.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Oficina_rodas_e_pneus/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'elinesnijder', // Usually your GitHub org/user name.
-  projectName: 'Oficina_rodas_e_pneus', // Usually your repo name.
+  organizationName: 'elinesnijder', 
+  projectName: 'Oficina_rodas_e_pneus', 
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'pt',
     locales: ['pt'],
@@ -40,17 +32,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -62,7 +46,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/Social card.png',
       navbar: {
         title: 'RODAS E PNEUS',
@@ -77,7 +60,7 @@ const config = {
             position: 'left',
             label: 'Serviços',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'A Nossa Equipa', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -106,7 +89,7 @@ const config = {
             ],
           },
           {
-            title: 'Contactos',
+            title: 'Informações Oficina',
             items: [
               {
                 html: `<p> Rua Praceta Maria José Pinheiro 2234-360 Faro, Portugal<br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt </p>`,
@@ -117,7 +100,7 @@ const config = {
             items: [
               {
                 html: `<a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
-                      <img src="img/Socialcard.png" alt="Social" width="500" height="200" />
+                      <img src="img/Socialcard.png" alt="Social" width="450" height="200" />
                     </a>`,
               },
             ],
