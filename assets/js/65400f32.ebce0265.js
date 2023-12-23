@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[666],{5369:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Oficina_rodas_e_pneus/blog/tags/docusaurus","allTagsPath":"/Oficina_rodas_e_pneus/blog/tags","count":1}')}}]);
