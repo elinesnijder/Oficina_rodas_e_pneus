@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Oficina_rodas_e_pneus/blog</id>
-    <title>OFICINA RODAS E PNEUS, LDA. Blog</title>
+    <title>Oficina Rodas &amp; Pneus, LDA. Blog</title>
     <updated>2023-12-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Oficina_rodas_e_pneus/blog"/>
-    <subtitle>OFICINA RODAS E PNEUS, LDA. Blog</subtitle>
+    <subtitle>Oficina Rodas &amp; Pneus, LDA. Blog</subtitle>
     <icon>https://github.com/Oficina_rodas_e_pneus/img/LOGO.png</icon>
     <entry>
         <title type="html"><![CDATA[Biografia Carolina Ribeiro]]></title>
