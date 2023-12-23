@@ -25,12 +25,17 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Seguro',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      <p>Automóvel</p>
+      <p>Proteja o seu veículo com o seguro automóvel da nossa oficina! 
+        Oferecemos cobertura abrangente para garantir a segurança do seu carro. 
+        Desde danos acidentais a eventos imprevistos, o nosso seguro automóvel proporciona tranquilidade em cada viagem. 
+        Conte com a nossa expertise para cuidar do seu património. 
+        Entre em contato para conhecer as opções personalizadas que temos para si. 
+        Viaje com confiança, viaje seguro!</p>
       </>
     ),
   },
