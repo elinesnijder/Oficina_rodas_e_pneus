@@ -2,16 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Oficina_rodas_e_pneus/blog</id>
     <title>OFICINA RODAS E PNEUS, LDA. Blog</title>
-    <updated>2023-12-23T20:59:43.000Z</updated>
+    <updated>2023-12-23T21:01:45.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Oficina_rodas_e_pneus/blog"/>
     <subtitle>OFICINA RODAS E PNEUS, LDA. Blog</subtitle>
     <icon>https://github.com/Oficina_rodas_e_pneus/img/LOGO.png</icon>
     <entry>
+        <title type="html"><![CDATA[Biografia Carolina Ribeiro]]></title>
+        <id>https://github.com/Oficina_rodas_e_pneus/blog/Biografia Carolina Ribeiro</id>
+        <link href="https://github.com/Oficina_rodas_e_pneus/blog/Biografia Carolina Ribeiro"/>
+        <updated>2023-12-23T21:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Carolina Ribeiro, apaixonada pelo o mundo da mecânica, nasceu e cresceu numa família que partilha a mesma paixão. Desde jovem, a sua paixão pela mecânica, deu inspiração para ser fundadora e proprietária da sua própria Oficina de Automóveis.]]></summary>
+        <content type="html"><![CDATA[<p>Carolina Ribeiro, apaixonada pelo o mundo da mecânica, nasceu e cresceu numa família que partilha a mesma paixão. Desde jovem, a sua paixão pela mecânica, deu inspiração para ser fundadora e proprietária da sua própria Oficina de Automóveis.</p><p>Fundadora e proprietária de uma Oficina de Automóveis, Carolina tornou-se uma inspiração na indústria. A sua abordagem inovadora e foco na satisfação do cliente fizeram com que sua oficina se destacasse. Combinando habilidade técnica, liderança eficaz e uma visão de negócios afiada, Carolima transformou a sua Oficina numa Oficina de excelência.</p><p>Além das suas conquistas profissionais, Carolina é uma líder comprometida com o desenvolvimento da sua equipa, incentivando a aprendizagem contínua e a busca por soluções criativas. Sua abordagem inspiradora demonstra que, na indústria automotiva, o talento e a liderança não têm gênero.</p><p>Carolina Ribeiro é mais do que uma empresária de sucesso. Ela é a força motriz por trás de uma oficina que não apenas conserta carros, mas também constrói relações com os seus clientes e promove um ambiente de trabalho positivo e inovador.</p>]]></content>
+        <author>
+            <name>Carolina Ribeiro</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biografia Eline Snijder]]></title>
         <id>https://github.com/Oficina_rodas_e_pneus/blog/Biografia Eline Snijder</id>
         <link href="https://github.com/Oficina_rodas_e_pneus/blog/Biografia Eline Snijder"/>
-        <updated>2023-12-23T20:59:43.000Z</updated>
+        <updated>2023-12-23T21:01:45.000Z</updated>
         <summary type="html"><![CDATA[Eline Snijder, mecânica apaixonada por motores e movida pela curiosidade desde a adolescência, encontrou seu caminho nas oficinas de automóveis. Nascida para consertar, Eline é uma presença essencial na equipe de uma respeitada oficina.]]></summary>
         <content type="html"><![CDATA[<p>Eline Snijder, mecânica apaixonada por motores e movida pela curiosidade desde a adolescência, encontrou seu caminho nas oficinas de automóveis. Nascida para consertar, Eline é uma presença essencial na equipe de uma respeitada oficina.</p><p>Com mãos habilidosas e olhos treinados para identificar qualquer problema sob o capô, Eline conquistou seu espaço na indústria. Sua jornada começou com a simples curiosidade de entender como as coisas funcionavam, e hoje ela é uma peça fundamental na engrenagem de uma oficina de confiança.</p><p>Sempre pronta para assumir desafios, Eline é conhecida por sua determinação e eficiência. Seja diagnosticando problemas complexos ou realizando reparos rápidos, sua paixão pelo trabalho reflete-se na qualidade do serviço que oferece.</p><p>Além de suas habilidades técnicas, Eline é apreciada por sua honestidade e atenção aos clientes. Sua abordagem simples e direta estabelece uma conexão única, tornando-a não apenas uma mecânica talentosa, mas também uma amiga confiável para quem busca cuidados para seus veículos.</p><p>Eline Snijder personifica a essência da mecânica automotiva, onde a habilidade e a dedicação são as chaves para manter os motores rodando suavemente.</p>]]></content>
         <author>
@@ -40,16 +51,5 @@
         <category label="facebook" term="facebook"/>
         <category label="hello" term="hello"/>
         <category label="docusaurus" term="docusaurus"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biografia Carolina Ribeiro]]></title>
-        <id>https://github.com/Oficina_rodas_e_pneus/blog/Biografia Carolina Ribeiro</id>
-        <link href="https://github.com/Oficina_rodas_e_pneus/blog/Biografia Carolina Ribeiro"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Carolina Ribeiro, apaixonada pelo o mundo da mecânica, nasceu e cresceu numa família que partilha a mesma paixão. Desde jovem, a sua paixão pela mecânica, deu inspiração para ser fundadora e proprietária da sua própria Oficina de Automóveis.]]></summary>
-        <content type="html"><![CDATA[<p>Carolina Ribeiro, apaixonada pelo o mundo da mecânica, nasceu e cresceu numa família que partilha a mesma paixão. Desde jovem, a sua paixão pela mecânica, deu inspiração para ser fundadora e proprietária da sua própria Oficina de Automóveis.</p><p>Fundadora e proprietária de uma Oficina de Automóveis, Carolina tornou-se uma inspiração na indústria. A sua abordagem inovadora e foco na satisfação do cliente fizeram com que sua oficina se destacasse. Combinando habilidade técnica, liderança eficaz e uma visão de negócios afiada, Carolima transformou a sua Oficina numa Oficina de excelência.</p><p>Além das suas conquistas profissionais, Carolina é uma líder comprometida com o desenvolvimento da sua equipa, incentivando a aprendizagem contínua e a busca por soluções criativas. Sua abordagem inspiradora demonstra que, na indústria automotiva, o talento e a liderança não têm gênero.</p><p>Carolina Ribeiro é mais do que uma empresária de sucesso. Ela é a força motriz por trás de uma oficina que não apenas conserta carros, mas também constrói relações com os seus clientes e promove um ambiente de trabalho positivo e inovador.</p>]]></content>
-        <author>
-            <name>Carolina Ribeiro</name>
-        </author>
     </entry>
 </feed>
