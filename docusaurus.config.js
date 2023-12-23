@@ -75,7 +75,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Serviços',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -86,52 +86,44 @@ const config = {
         ],
       },
       footer: {
-        
         style: 'dark',
         links: [
           {
-            logo: {
-              alt: 'A Nossa Oficina',
-              src: 'img/Social card.png',
-              href: 'https://opensource.fb.com',
-              width: 160,
-              height: 51,
-            },
-          },
-          {
-            title: 'A Nossa Oficina',
-            image: 'img/Social card.png'
-          },
-          {title: 'Contactos',
-          items: [
-            {
-              label: 'Rua Praceta Maria José Pinheiro 2234-360 Faro Portugal<br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-          },
-          {
-            title: 'Community',
+            title: 'Serviços',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Oficina',
+                to: '/docs/category/oficina',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Financiamento',
+                to: '/docs/tutorial-extras/manage-docs-versions',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Seguro',
+                to: '/docs/tutorial-extras/translate-your-site',
+              },
+            ],
+          },
+          {
+            title: 'Contactos',
+            items: [
+              {
+                html: `<p> Rua Praceta Maria José Pinheiro 2234-360 Faro Portugal<br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt </p>`,
+              },
+            ],
+          },
+          {
+            items: [
+              {
+                html: `<a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+                      <img src="img/Socialcard.png" alt="Social" width="500" height="200" />
+                    </a>`,
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OFICINA RODAS E PNEUS LDA., Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
