@@ -17,7 +17,7 @@ interface Button {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Rent-a-Car',
-    Svg: require('@site/static/img/Anonymous_aiga_car_rental.svg').default,
+    Svg: require('@site/static/img/Car_Purple_Side.svg').default,
     description: (
       <>
         <p>Aluguer Automóvel</p>
