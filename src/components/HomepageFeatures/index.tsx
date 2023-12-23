@@ -5,19 +5,13 @@ import styles from './styles.module.css';
 type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<'svg'>>;
-  description: React.ReactNode;
-  button?: Button; // Make sure the button property is optional
+  description: JSX.Element;
 };
-
-interface Button {
-  text: string;
-  link: string;
-}
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'Rent-a-Car',
-    Svg: require('@site/static/img/Car_Purple_Side.svg').default,
+    Svg: require('@site/static/img/Car Renting.svg').default,
     description: (
       <>
         <p>Aluguer Automóvel</p>
@@ -28,12 +22,8 @@ const FeatureList: FeatureItem[] = [
         Comprometemo-nos a garantir uma experiência de aluguer personalizada 
         e eficiente para satisfazer as exigências de cada cliente.</p>
       </>
-       ),
-        button: {
-         text: 'Saiba Mais',
-         link: '/docs/tutorial-extras/manage-docs-versions', // Specify the link or route you want the button to navigate to
-       },
-     },
+    ),
+  },
   {
     title: 'Focus on What Matters',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
