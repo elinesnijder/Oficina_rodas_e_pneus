@@ -2,56 +2,21 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Pneus
 
-Documents are **groups of pages** connected through:
+Substituição de pneus, calibragem e alinhamento direção.
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+Na nossa oficina, estamos comprometidos em oferecer serviços de qualidade que garantem a durabilidade, o desempenho e a segurança dos seus pneus.
 
-## Create your first Doc
+## **Serviços que Oferecemos:**
 
-Create a Markdown file at `docs/hello.md`:
+1. **Substituição de Pneus:**
+A nossa equipa de especialistas ajudará a escolher os pneus adequados ao seu veículo e estilo de condução com uma substituição profissional para garantir uma condução suave e segura.
 
-```md title="docs/hello.md"
-# Hello
+2. **Calibragem de Pneus:**
+Oferecemos serviços de calibragem precisos para manter a pressão ideal dos seus pneus. A calibragem regular melhora a eficiência do combustível, reduz o desgaste dos pneus e aumenta a estabilidade do veículo.
 
-This is my **first Docusaurus document**!
-```
+3. **Alinhamento de Direção:**
+O alinhamento correto melhora a dirigibilidade, evita o desgaste irregular dos pneus e proporciona uma condução mais segura.
 
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
+Na nossa oficina, a manutenção de pneus vai além de um simples serviço. é um compromisso com a sua segurança e satisfação. Confie em nós para cuidar dos seus pneus, proporcionando uma condução suave e tranquila. Entre em contacto connosco hoje para agendar o seu serviço e experimentar a diferença que a nossa dedicação faz no desempenho do seu veículo.
