@@ -1,7 +1,7 @@
 ---
 slug: Bem-vindos
 title: Bem-vindos à Oficina Rodas e Pneus
-authors: [Carolina, Eline, Ricardo, Wanna]
+authors: [Carolina, Eline, Ricardo, Wuanna]
 tags: [facebook, hello, docusaurus]
 ---
 
