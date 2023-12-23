@@ -14,8 +14,13 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        <p>Docusaurus was designed from the ground up to be easily installed and used to get your website up and running quickly.</p>
         <p>Aluguer Automóvel</p>
+        <p> Oferecemos aluguer de viaturas para clientes individuais e empresariais, 
+        com uma frota diversificada para atender a todas as necessidades. 
+        Para empresas, proporcionamos soluções completas de mobilidade, 
+        incluindo contratos flexíveis de até um ano e viaturas comerciais. 
+        Comprometemo-nos a garantir uma experiência de aluguer personalizada 
+        e eficiente para satisfazer as exigências de cada cliente.</p>
       </>
     ),
   },
