@@ -2,30 +2,27 @@
 sidebar_position: 6
 ---
 
-# Congratulations!
+# Eletricidade e Eletronica
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Diagnóstico e substituição de baterias, alternadores e lâmpadas.
 
-Docusaurus has **much more to offer**!
+A bateria é o elemento principal do circuito eléctrico da sua viatura, mas desgasta-se e perde a sua eficácia passados alguns anos. A sua função é armazenar a energia elétrica para permitir o funcionamento ideal de todos os elementos de segurança e de conforto.
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+## **Serviços que Oferecemos:**
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+**Teste e Diagnóstico de Bateria:**
 
-Here's a demo on how to add a table:
+- Realizamos testes avançados para avaliar o estado da sua bateria e prevenir falhas inesperadas.
+- Diagnóstico preciso para identificar problemas e garantir uma performance ótima.
 
-|Header      |Header         |Header   |
-|------------|---------------|---------|
-|Content     |Content        |Content  |
-|Content     |`Code content` |*Italic*  |
-|Content     |Content        |Content  |
+**Substituição de Baterias:**
 
-## What's next?
+- Oferecemos uma variedade de baterias de alta qualidade, compatíveis com diversas marcas e modelos.
+- Substituição profissional, assegurando uma partida confiável em todas as condições.
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+**Manutenção e Limpeza:**
+
+- Proporcionamos serviços de manutenção e limpeza para prolongar a vida útil da sua bateria.
+- Verificação de terminais, limpeza de corrosão e ajustes para garantir uma conexão elétrica sólida.
+
+Confie-nos o cuidado da bateria do seu veículo para garantir partidas seguras e sistemas elétricos em pleno funcionamento, permitindo-lhe enfrentar qualquer jornada com confiança.
