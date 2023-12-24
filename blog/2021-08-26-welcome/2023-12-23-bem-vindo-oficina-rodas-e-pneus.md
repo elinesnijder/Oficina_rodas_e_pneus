@@ -12,13 +12,4 @@ O que torna a Oficina Rodas e Pneus especial vai além das ferramentas e das pe�
 
 A Oficina Rodas e Pneus não é apenas um local para consertos; é um lugar onde a paixão por automóveis se encontra com um serviço excepcional, criando uma atmosfera onde os clientes não são apenas números, mas parte da família Oficina Rodas e Pneus.
 
-Simply add Markdown files (or folders) to the `blog` directory.
-
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
 ![Oficina](./docusaurus-plushie-banner.jpeg)

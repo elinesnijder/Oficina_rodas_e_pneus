@@ -4,6 +4,7 @@ title: Biografia Carolina Ribeiro
 authors:
   name: Carolina Ribeiro
   title: Fundadora
+  url: https://thumbs.dreamstime.com/b/engenheiro-mec%C3%A2nico-29185768.jpg
 ---
 
 Carolina Ribeiro, apaixonada pelo o mundo da mecânica, nasceu e cresceu numa família que partilha a mesma paixão. Desde jovem, a sua paixão pela mecânica, deu inspiração para ser fundadora e proprietária da sua própria Oficina de Automóveis.

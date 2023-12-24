@@ -4,6 +4,7 @@ title: Biografia Ricardo Guilherme
 authors:
   name: Ricardo Guilherme
   title: Mecânico
+  url: https://thumbs.dreamstime.com/b/engenheiro-mec%C3%A2nico-29185768.jpg
 ---
 
 Ricardo Guilherme, um mecânico cujo coração bate no ritmo dos motores, descobriu sua paixão por carros desde os primeiros dias em que podia segurar uma chave inglesa. Nascido para girar porcas e parafusos, Ricardo tornou-se uma figura indispensável na oficina onde canaliza sua expertise.
