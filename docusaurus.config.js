@@ -71,7 +71,7 @@ const config = {
             items: [
               {
                 label: 'Reparação',
-                to: '/docs/category/reparaçao',
+                to: '/docs/category/reparação',
               },
               {
                 label: 'Veículos',
