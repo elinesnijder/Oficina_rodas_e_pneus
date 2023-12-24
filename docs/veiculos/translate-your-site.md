@@ -7,7 +7,7 @@ sidebar_position: 2
 Explore por que somos a escolha preferida para quem busca conveniência, qualidade e flexibilidade em cada jornada:
 
 1. **Frota Versátil:**
-Descubra uma frota diversificada que atende a todas as tuas necessidades de locomoção. De carros econômicos a SUVs espaçosos, cada veículo é mantido em condições impecáveis para garantir uma viagem segura e confortável.
+Descubra uma frota diversificada que atende a todas as tuas necessidades de locomoção. De veículos econômicos a SUVs espaçosos, cada veículo é mantido em condições impecáveis para garantir uma viagem segura e confortável.
 
 2. **Atendimento Personalizado:**
 Nossa equipe está aqui para garantir que tuas necessidades específicas sejam atendidas. Seja uma viagem de negócios, férias em família ou um evento especial, estamos prontos para personalizar a solução de aluguer ideal para você.
