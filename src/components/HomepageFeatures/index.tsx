@@ -40,13 +40,18 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Serviços',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <p>Reparação Automóvel</p>
+      <p>Proteja o seu veículo com o seguro automóvel da nossa oficina! 
+        Oferecemos cobertura abrangente para garantir a segurança do seu carro. 
+        Desde danos acidentais a eventos imprevistos, o nosso seguro automóvel proporciona tranquilidade em cada viagem. 
+        Conte com a nossa expertise para cuidar do seu património. 
+        Entre em contato para conhecer as opções personalizadas que temos para si. 
+        Viaje com confiança, viaje seguro!</p>
+        </>
     ),
   },
 ];
