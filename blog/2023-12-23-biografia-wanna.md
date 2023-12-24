@@ -4,7 +4,8 @@ title: Biografia Wanna Souza
 authors:
   name: Wanna Souza
   title: Mecânica
-  url: https://thumbs.dreamstime.com/b/engenheiro-mec%C3%A2nico-29185768.jpg
+  url:
+  image_url: https://thumbs.dreamstime.com/b/engenheiro-mec%C3%A2nico-29185768.jpg
 ---
 
  Wanna Souza uma mecânica com um sorriso tão brilhante quanto suas habilidades com as suas ferramentas, encontrou a sua vocação nas entranhas dos automóveis. Desde jovem, Wanna fascinava-se com a complexidade dos motores, e essa paixão a conduziu até o mundo desafiador e gratificante da mecânica automotiva.

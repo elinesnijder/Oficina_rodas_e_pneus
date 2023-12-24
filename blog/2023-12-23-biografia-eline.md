@@ -4,7 +4,8 @@ title: Biografia Eline Snijder
 authors:
   name: Eline Snijder
   title: Mecânica
-  url: https://thumbs.dreamstime.com/b/engenheiro-mec%C3%A2nico-29185768.jpg
+  url:
+  image_url: https://thumbs.dreamstime.com/b/engenheiro-mec%C3%A2nico-29185768.jpg
 ---
 
 Eline Snijder, mecânica apaixonada por motores e movida pela curiosidade desde a adolescência, encontrou seu caminho nas oficinas de automóveis. Nascida para consertar, Eline é uma presença essencial na equipe de uma respeitada oficina.
