@@ -75,7 +75,7 @@ const config = {
               },
               {
                 label: 'Veículos',
-                to: 'docs/category/veículos',
+                to: '/docs/category/veículos',
               },
               {
                 label: 'Contactos',
