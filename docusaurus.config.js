@@ -6,28 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OFICINA RODAS E PNEUS, LDA.',
-  tagline: 'ATÉ ACREDITAS EM DEUS',
+  title: 'Oficina Rodas & Pneus, LDA.',
+  tagline: 'Até acreditas em deus',
   favicon: 'img/LOGO.png',
 
-  // Set the production url of your site here
   url: 'https://github.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Oficina_rodas_e_pneus/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'elinesnijder', // Usually your GitHub org/user name.
-  projectName: 'Oficina_rodas_e_pneus', // Usually your repo name.
+  organizationName: 'elinesnijder', 
+  projectName: 'Oficina_rodas_e_pneus', 
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'pt',
     locales: ['pt'],
@@ -40,17 +32,9 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -62,10 +46,9 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/Social card.png',
       navbar: {
-        title: 'RODAS E PNEUS',
+        title: 'Rodas & Pneus',
         logo: {
           alt: 'Logo Oficina',
           src: 'img/LOGO.png',
@@ -77,12 +60,8 @@ const config = {
             position: 'left',
             label: 'Serviços',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {to: '/blog', label: 'A Nossa Equipa', position: 'left'},
+          {to: '/docs/intro', label: 'Contactos', position: 'right'}
         ],
       },
       footer: {
@@ -92,8 +71,8 @@ const config = {
             title: 'Serviços',
             items: [
               {
-                label: 'Oficina',
-                to: '/docs/category/oficina',
+                label: 'Reparação',
+                to: '/docs/category/reparação',
               },
               {
                 label: 'Financiamento',
@@ -106,18 +85,18 @@ const config = {
             ],
           },
           {
-            title: 'Contactos',
+            title: 'Morada',
             items: [
               {
-                html: `<p> Rua Praceta Maria José Pinheiro 2234-360 Faro, Portugal<br> Telemóvel / Telefone: 930 691 421 / 317 672 411 <br> Email: oficinarodaspneuslda@sapo.pt </p>`,
+                html: `<p> Rua Praceta Maria José Pinheiro <br> 2234-360 Faro, Portugal </p>`,
               },
             ],
           },
           {
             items: [
               {
-                html: `<a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
-                      <img src="img/Socialcard.png" alt="Social" width="500" height="200" />
+                html: `<a target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+                      <img src="img/Socialcard.png" alt="Social" width="450" height="200" />
                     </a>`,
               },
             ],

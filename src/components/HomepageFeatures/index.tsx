@@ -10,33 +10,47 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Rent-a-Car',
+    Svg: require('@site/static/img/rent-a-car-rent-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <p>Aluguer Automóvel</p>
+        <p> Oferecemos aluguer de viaturas para clientes individuais e empresariais, 
+        com uma frota diversificada para atender a todas as necessidades. 
+        Para empresas, proporcionamos soluções completas de mobilidade, 
+        incluindo contratos flexíveis de até um ano e viaturas comerciais. 
+        Comprometemo-nos a garantir uma experiência de aluguer personalizada 
+        e eficiente para satisfazer as exigências de cada cliente.</p>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Seguro',
+    Svg: require('@site/static/img/1371714180.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      <p>Automóvel</p>
+      <p>Proteja o seu veículo com o seguro automóvel da nossa oficina! 
+        Oferecemos cobertura abrangente para garantir a segurança do seu carro. 
+        Desde danos acidentais a eventos imprevistos, o nosso seguro automóvel proporciona tranquilidade em cada viagem. 
+        Conte com a nossa expertise para cuidar do seu património. 
+        Entre em contato para conhecer as opções personalizadas que temos para si. 
+        Viaje com confiança, viaje seguro!</p>
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Serviços',
+    Svg: require('@site/static/img/repairing-wrench-svgrepo-com.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <p>Reparação Automóvel</p>
+      <p>Há mais de 20 anos, realizamos manutenção periódica, serviços rápidos sem marcação, diagnósticos e reparos,
+        colisões e sinistros, planos de garantia estendida, cuidamos de pneus e alinhamento de direções,
+        oferecemos lavagem de viaturas e serviço de entrega e recolha. 
+        Confie na nossa experiência para manter o seu veículo em excelente estado. 
+        Entre em contacto para descobrir como podemos atender às necessidades da sua viatura.</p>
+        </>
     ),
   },
 ];

@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Eletricidade e Eletronica
+# Eletricidade e Eletrónica
 
 Diagnóstico e substituição de baterias, alternadores e lâmpadas.
 
@@ -26,3 +26,5 @@ A bateria é o elemento principal do circuito eléctrico da sua viatura, mas des
 - Verificação de terminais, limpeza de corrosão e ajustes para garantir uma conexão elétrica sólida.
 
 Confie-nos o cuidado da bateria do seu veículo para garantir partidas seguras e sistemas elétricos em pleno funcionamento, permitindo-lhe enfrentar qualquer jornada com confiança.
+
+![Elitricidade](./bateria-de-carro.jpg)
