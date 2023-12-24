@@ -62,6 +62,7 @@ const config = {
           },
           {to: '/blog', label: 'A Nossa Equipa', position: 'left'},
           
+          
         ],
       },
       footer: {
