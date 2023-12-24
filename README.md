@@ -1,36 +1,54 @@
-# Docusaurus on Github Pages
+**Oficina Rodas & Pneus - README**
 
-This is a demo repo to allow for a fast setup of Docusaurus on Github pages
+# Descrição
 
-# Instructions
+Bem-vindo à Oficina Rodas & Pneus! Este site foi desenvolvida para gerenciar as operações diárias de uma oficina especializada em serviços automotivos, incluindo reparação, contacto, compra, aluguel e seguro de veículos. Seja você um mecânico experiente, um fornecedor de peças, um cliente em busca de serviços ou um proprietário de frota, este site foi projetada para atender a diversas necessidades relacionadas a veículos automotores.
 
-To begin with this repository you have two options:
-- (a) Fork this repository. When you do it, make sure you fork all branches, not only main. Github Actions need the "gh-pages" branch to deploy the site.
-- (b) Clone it to your local filesystem, create a new repository on your github account and push it there. Upon pushing the github actions should trigger and create the gh-pages branch. If it doesn't, make a small change to this file and push it again.
+# Funcionalidades Principais
 
-There are other changes you need to do: 
+1. **Reparação de Veículos:**
+   - Registre detalhes sobre serviços de reparação, como manutenção preventiva, reparos de emergência e atualizações de software.
 
-- Github Actions need to be enabled (Settings -> Actions -> General)
-    - Actions permissions:
-        - Allow all actions and reusable workflows
-    - Workflow permissions:
-        - Read and write permissions
-- Github Pages must also be enabled (Settings -> Pages)
-    - Source
-        - Deploy from a branch
-    - Branch
-        - gh-pages (on the dropdown)
+2. **Compra de Peças e Produtos:**
+   - Facilite o processo de compra de peças e produtos, controlando o estoque e gerenciando transações de compra.
 
-# Generate a PDF from the Docs section
+3. **Aluguer de Veículos:**
+   - Ofereça serviços de aluguer de veículos, mantendo um sistema eficiente para reserva, check-in e check-out de automóveis.
 
-You can generate a PDF from the docs section of your Docusaurus website. Just run the following command after replacing the URL with your own:
+4. **Seguro de Veículos:**
+   - Registre informações sobre apólices de seguro, sinistros e renovações, facilitando a gestão abrangente de seguros automotivos.
 
-```
-npx docusaurus-prince-pdf --include-index -u https://masaleiro.github.io/docusaurus-ghpages/docs/intro
-```
+# Requisitos do Sistema
 
-Another alternative is using [Docs-to-pdf](https://github.com/jean-humann/docs-to-pdf) with the following command as example:
+Certifique-se de que seu ambiente atenda aos seguintes requisitos antes de iniciar a aplicação:
 
-```
-npx docs-to-pdf --initialDocURLs="https://masaleiro.github.io/docusaurus-ghpages/docs/intro" --contentSelector="article" --paginationSelector="a.pagination-nav__link.pagination-nav__link--next" --excludeSelectors=".margin-vert--xl a,[class^='tocCollapsible'],.breadcrumbs,.theme-edit-this-page" --coverImage="https://docusaurus.io/img/docusaurus.png" --coverTitle="Docusaurus v2" --pdfMargin="40,60,70,80"
-```
+- Node.js 14.0 ou superior
+- Banco de dados MySQL 8.0 ou superior
+- NPM (Node Package Manager)
+- Conexão com a Internet para atualizações e sincronizações
+
+# Instalação
+
+1. Clone o repositório:
+   ```
+   git clone https://github.com/seu-usuario/oficina-automotiva.git
+   ```
+
+2. Instale as dependências:
+   ```
+   npm install
+   ```
+
+3. Configure o banco de dados no arquivo `.env` com suas credenciais.
+
+4. Execute as migrações do banco de dados:
+   ```
+   npm run migrate
+   ```
+
+5. Inicie a aplicação:
+   ```
+   npm start
+   ```
+
+A aplicação estará disponível em `http://localhost:3000`.
