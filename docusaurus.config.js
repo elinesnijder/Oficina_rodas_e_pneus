@@ -71,8 +71,8 @@ const config = {
             title: 'Serviços',
             items: [
               {
-                label: 'Oficina',
-                to: '/docs/category/oficina',
+                label: 'Reparação',
+                to: '/docs/category/reparação',
               },
               {
                 label: 'Financiamento',
