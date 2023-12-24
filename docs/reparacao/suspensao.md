@@ -26,3 +26,5 @@ A suspensão do seu veículo é crucial para garantir uma condução suave, conf
 - Maximizamos a estabilidade, a dirigibilidade e a durabilidade dos pneus.
 
 Na nossa oficina, compreendemos a importância da suspensão para a experiência de condução. Confie-nos o cuidado do sistema de suspensão do seu veículo para garantir uma condução suave, controle total e segurança em cada viagem.
+
+![Suspensão](./carro-na-reparaçao.jpg)

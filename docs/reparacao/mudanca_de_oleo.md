@@ -23,4 +23,4 @@ Comprometemo-nos a fornecer não apenas serviços, mas uma experiência educativ
 
 Confia em nós para cuidar do teu veículo como se fosse nosso. Juntos, garantimos uma jornada suave, quilómetro após quilómetro.
 
-![Óleo](./mudanca-de-oleo.jpeg)
+![Óleo](./oleo.jpg)
