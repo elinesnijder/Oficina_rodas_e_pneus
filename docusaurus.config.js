@@ -71,15 +71,15 @@ const config = {
             items: [
               {
                 label: 'Reparação',
-                to: '/docs/category/reparação',
+                to: '/docs/category/reparaçao',
               },
               {
-                label: 'Financiamento',
-                to: '/docs/tutorial-extras/manage-docs-versions',
+                label: 'Veículos',
+                to: 'docs/category/veículos',
               },
               {
-                label: 'Seguro',
-                to: '/docs/tutorial-extras/translate-your-site',
+                label: 'Contactos',
+                to: '/docs/intro',
               },
             ],
           },
