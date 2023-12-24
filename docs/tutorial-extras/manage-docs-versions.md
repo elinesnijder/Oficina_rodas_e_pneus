@@ -2,54 +2,22 @@
 sidebar_position: 1
 ---
 
-# Manage Docs Versions
+# Compra de Veículos
 
-Docusaurus can manage multiple versions of your docs.
+Estamos comprometidos em proporcionar a você uma jornada de compra de veículos excepcional, onde cada detalhe é pensado para superar suas expectativas. Descubra por que somos a escolha preferida de entusiastas automotivos exigentes:
 
-## Create a docs version
+1. **Variedade Excepcional:**
+Explore nossa ampla seleção de veículos novos e seminovos das melhores marcas do mercado. De elegantes carros compactos a robustos SUVs e caminhonetes, temos o veículo perfeito para atender às suas necessidades e estilo de vida.
 
-Release a version 1.0 of your project:
+2. **Transparência e Confiança:**
+A transparência é a base do nosso relacionamento com os clientes. Disponibilizamos todas as informações relevantes sobre os veículos, desde o histórico de manutenção até as características detalhadas, garantindo que você tome decisões informadas e confiantes.
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+3. **Atendimento Personalizado:**
+Nossa equipe altamente qualificada está pronta para oferecer um atendimento personalizado, entendendo suas necessidades individuais e guiando-o na escolha do veículo ideal. Queremos tornar sua experiência de compra tão única quanto o carro dos seus sonhos.
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+4. **Garantia de Qualidade:**
+Todos os veículos passam por rigorosas inspeções para garantir a qualidade e o desempenho. Oferecemos garantias abrangentes para que você tenha total tranquilidade ao dirigir seu novo carro.
 
-Your docs now have 2 versions:
+## Sua Experiência de Compra de Veículos Incomparável
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
-
-## Add a Version Dropdown
-
-To navigate seamlessly across versions, add a version dropdown.
-
-Modify the `docusaurus.config.js` file:
-
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
-
-The docs version dropdown appears in your navbar:
-
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
-
-## Update an existing version
-
-It is possible to edit versioned docs in their respective folder:
-
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+Estamos ansiosos para recebê-lo e fazer parte da emocionante jornada de encontrar o veículo perfeito. Agende uma visita.
