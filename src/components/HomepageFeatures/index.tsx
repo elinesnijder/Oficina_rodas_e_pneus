@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Seguro',
-    Svg: require('@site/static/img/rg1024-paper-form-with-ballpoint.svg').default,
+    Svg: require('@site/static/img/1371714180.svg').default,
     description: (
       <>
       <p>Automóvel</p>
