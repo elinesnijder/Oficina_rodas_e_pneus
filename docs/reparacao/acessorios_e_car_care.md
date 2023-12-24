@@ -43,3 +43,5 @@ Na nossa oficina, entendemos que o seu veículo é uma extensão do seu estilo d
 - Opções de ambientadores e aromatizadores para personalizar o aroma do seu carro.
 
 Connosco, não se trata apenas de cuidar do seu veículo, é sobre expressar o seu estilo e garantir que a sua condução seja verdadeiramente única.
+
+![Acessórios](./acessorios-carro.jpeg)
