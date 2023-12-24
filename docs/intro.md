@@ -1,7 +1,7 @@
 ---
 slug: Contactos
 title: Contactos
-authors:
+intro:
   name: Carolina Ribeiro
   title: Fundadora
   url: https://pt-pt.facebook.com/
@@ -9,7 +9,7 @@ authors:
 
 slug: Contactos
 title: Contactos
-authors:
+intro:
   name: Carolina Ribeiro
   title: Fundadora
   url: https://pt-pt.facebook.com/
@@ -17,7 +17,7 @@ authors:
 
 slug: Contactos
 title: Contactos
-authors:
+intro:
   name: Carolina Ribeiro
   title: Fundadora
   url: https://pt-pt.facebook.com/
@@ -25,7 +25,7 @@ authors:
 
 slug: Contactos
 title: Contactos
-authors:
+intro:
   name: Carolina Ribeiro
   title: Fundadora
   url: https://pt-pt.facebook.com/
