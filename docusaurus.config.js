@@ -61,6 +61,7 @@ const config = {
             label: 'Serviços',
           },
           {to: '/blog', label: 'A Nossa Equipa', position: 'left'},
+          {to: '/docs/intro', label: 'Contactos', position: 'right'}
         ],
       },
       footer: {
