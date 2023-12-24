@@ -45,12 +45,11 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
       <p>Reparação Automóvel</p>
-      <p>Proteja o seu veículo com o seguro automóvel da nossa oficina! 
-        Oferecemos cobertura abrangente para garantir a segurança do seu carro. 
-        Desde danos acidentais a eventos imprevistos, o nosso seguro automóvel proporciona tranquilidade em cada viagem. 
-        Conte com a nossa expertise para cuidar do seu património. 
-        Entre em contato para conhecer as opções personalizadas que temos para si. 
-        Viaje com confiança, viaje seguro!</p>
+      <p>Há mais de 20 anos, realizamos manutenção periódica, serviços rápidos sem marcação, diagnósticos e reparos,
+        colisões e sinistros, planos de garantia estendida, cuidamos de pneus e alinhamento de direções,
+        oferecemos lavagem de viaturas e serviço de entrega e recolha. 
+        Confie na nossa experiência para manter o seu veículo em excelente estado. 
+        Entre em contacto para descobrir como podemos atender às necessidades da sua viatura.</p>
         </>
     ),
   },
