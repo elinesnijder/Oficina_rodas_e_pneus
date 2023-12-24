@@ -27,4 +27,4 @@ A bateria é o elemento principal do circuito eléctrico da sua viatura, mas des
 
 Confie-nos o cuidado da bateria do seu veículo para garantir partidas seguras e sistemas elétricos em pleno funcionamento, permitindo-lhe enfrentar qualquer jornada com confiança.
 
-![Eletricidade](./Bateria-de-carro-tudo-o-que-voce-precisa-saber-sobre-o-assunto-723x480.jpg)
+![Elitricidade](./bateria-de-carro.jpg)
