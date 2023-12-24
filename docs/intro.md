@@ -4,21 +4,22 @@ sidebar_position: 3
 
 # Contactos  dos Membros da Oficina Rodas e Pneus
 
-**Name**: Carolina Ribeiro
+**Carolina Ribeiro**
+---
 **Titulo**: Fundadora
 **Telemóvel**: +351 935497954
----
 
-**Name**: Carolina Ribeiro
-**Titulo**: Fundadora
+**Eline Snijder**
+---
+**Titulo**: Mecânica
 **Telemóvel**: +351 935497954
----
 
-**Name**: Carolina Ribeiro
-**Titulo**: Fundadora
+**Ricardo Guilherme**
+---
+**Titulo**: Mecânico
 **Telemóvel**: +351 935497954
----
 
-**Name**: Carolina Ribeiro
-**Titulo**: Fundadora
+**Wanna Souza**
+---
+**Titulo**: Mecânica
 **Telemóvel**: +351 935497954
