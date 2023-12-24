@@ -41,7 +41,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Serviços',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/repairing-wrench-svgrepo-com.svg').default,
     description: (
       <>
       <p>Reparação Automóvel</p>
