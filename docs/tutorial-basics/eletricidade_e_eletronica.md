@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Eletricidade e Eletronica
+# Eletricidade e Eletrónica
 
 Diagnóstico e substituição de baterias, alternadores e lâmpadas.
 
