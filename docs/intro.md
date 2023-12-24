@@ -2,7 +2,15 @@
 sidebar_position: 3
 ---
 
-# Contactos  dos Membros da Oficina Rodas e Pneus
+# Contactos
+
+## **Contactos da Oficina**
+
+**Telemóvel:** 930 691 421
+
+**Telefone:** 317 672 411
+
+**E-mail:** oficinarodaspneuslda@sapo.pt
 
 ## **Contactos Carolina Ribeiro**
 
@@ -44,10 +52,3 @@ sidebar_position: 3
 
 **E-mail:** ofidgnkbsgdkbsdgpneuslda@sapo.pt
 
-## **Contactos da Oficina**
-
-**Telemóvel:** 930 691 421
-
-**Telefone:** 317 672 411
-
-**E-mail:** oficinarodaspneuslda@sapo.pt
