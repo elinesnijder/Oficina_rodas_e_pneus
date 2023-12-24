@@ -12,4 +12,4 @@ O que torna a Oficina Rodas e Pneus especial vai além das ferramentas e das pe�
 
 A Oficina Rodas e Pneus não é apenas um local para consertos; é um lugar onde a paixão por automóveis se encontra com um serviço excepcional, criando uma atmosfera onde os clientes não são apenas números, mas parte da família Oficina Rodas e Pneus.
 
-![Oficina](./docusaurus-plushie-banner.jpeg)
+![Oficina](oficina-mecanica-organizada.jpg)
