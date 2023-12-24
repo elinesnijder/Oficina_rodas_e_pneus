@@ -20,3 +20,5 @@ Oferecemos serviços de calibragem precisos para manter a pressão ideal dos seu
 O alinhamento correto melhora a dirigibilidade, evita o desgaste irregular dos pneus e proporciona uma condução mais segura.
 
 A manutenção de pneus vai além de um simples serviço. é um compromisso com a sua segurança e satisfação. Confie em nós para cuidar dos seus pneus, proporcionando uma condução suave e tranquila. Entre em contacto connosco hoje para agendar o seu serviço e experimentar a diferença que a nossa dedicação faz no desempenho do seu veículo.
+
+![Pneus](./troca_de_pneu.jpg)
